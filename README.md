@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me👋
 
-<!--
-**heitor669/heitor669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**heitor669/heitor669** Meu primeiro repositório
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Estudante de Desenvolvimento de Sistemas do IFTM
+- 👯 A procura de uma parceria profissio
+- 🤔 Procurando ajuda para aumentar meu conhecimento
+- 💬 Pergunte-me sobre: códigos
+- 📫 Como me achar: heitor.david@estudante.iftm.edu.br
+- 😄 Pronomes: ele/dele
+- ⚡ Fato engraçado: Não sei dar um mortal
